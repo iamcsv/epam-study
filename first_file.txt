@@ -3,5 +3,5 @@ a little bit
 cooler
 than
 in demo lesson :)
-Add the new line from remote. 
-And now I am testing git gui function.
+Add the new line from remote
+And now I am testing git gui function
