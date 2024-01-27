@@ -1,1 +1,3 @@
 New text inside
+
+Some more letter to see GUI works
